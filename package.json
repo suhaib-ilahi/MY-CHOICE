@@ -46,6 +46,7 @@
     "jest-util": "~30.3.0",
     "nx": "23.3.0",
     "prettier": "~3.6.2",
+    "prisma": "^7.10.0",
     "react-refresh": "^0.10.0",
     "ts-jest": "^29.4.7",
     "ts-node": "10.9.1",
